@@ -1,0 +1,5 @@
+{
+    "require": {
+        "enqueue/rdkafka": "^0.9.12"
+    }
+}

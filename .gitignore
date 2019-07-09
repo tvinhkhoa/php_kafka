@@ -1,0 +1,9 @@
+# Package common vendor
+vendor
+
+# Lock
+composer.lock
+
+# Composer phar
+composer.phar
+composer
